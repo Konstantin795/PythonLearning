@@ -19,7 +19,7 @@ varaiable = 1
 dogs_count = 3
 dog_name = "DOG"
 cat_name = 'Мурзик'
-worker_say = 'Михалыч засунь ту "Штуковину" обратно доп символ \''
+worker_say = 'Михалыч засунь ту "Штуковину" обратно, доп символ \''
 # float
 profit_percent = 2.33
 

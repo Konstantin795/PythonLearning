@@ -21,7 +21,7 @@ elif user_age >= 16:
 else:
     print("Ограниченный доступ")
 
-print("отсчет возраста")
+print("Выполняю отсчет возраста")
 
 temp_age = user_age
 while temp_age > 0:
